@@ -1,10 +1,14 @@
 # bookstoreapp
 
-Flutter project.
+BookStore is a cross-platform mobile application built with Flutter, offering a smooth and interactive online shopping experience. Users can browse products
 
 # Features
 
-Login & SignUp
+Authentication
+Firebase-based login and registration.
+
+Home
+Displays books.
 
 
 
